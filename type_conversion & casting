@@ -1,0 +1,50 @@
+# print(type(6))
+# print(type(4.6))
+# print(type('hello'))
+
+# a=6
+# print(a)
+# print(float(a))
+# print(str(a))
+
+# b=4.7
+# print(int(b))
+# print(str(b))
+# print(str(b)+'hey')
+
+# c='hello'
+# print(int(c))
+# print(float(c))
+
+# d='3'
+# print(type(d))
+# print(int(d))
+# print(float(d))
+
+# e='7.4'
+# print(type(e))
+# print(float(e))
+# n=float(e)
+# print(int(n))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
